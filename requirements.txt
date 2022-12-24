@@ -1,0 +1,4 @@
+requests~=2.27.1
+matplotlib~=3.5.1
+numpy~=1.22.3
+PyQt6~=6.4.0
